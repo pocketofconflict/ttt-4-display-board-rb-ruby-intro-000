@@ -4,4 +4,3 @@ def display_board(board)
   board = ("   ", "   ", "   ", "   ", "   ", "   ", "   ", "   ", "   ")
   display_board
 end
-
