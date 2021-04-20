@@ -2,5 +2,5 @@
 # out the current state.
 def display_board(board)
   board = ("   ", "   ", "   ", "   ", "   ", "   ", "   ", "   ", "   ")
-  display_board
+  display_board(board)
 end
